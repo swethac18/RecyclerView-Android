@@ -1,5 +1,5 @@
 # RecyclerView-Android
-Sample app displaying collection of places using RecyclerView. If an image item listed is clisked, the name of the place is displayed as a toast message.
+Sample app displaying collection of places using RecyclerView. If an image item listed is clicked, the name of the place is displayed as a toast message.
 ## Android Libarires Used:
 ### 1. Glide for image loading
 ### 2. hdodenhof for a circular image view
